@@ -19,19 +19,19 @@ msgstr ""
 
 #: skycomponents/horizoncomponent.cpp:429
 msgctxt "South"
-msgid "S"
-msgstr ""
+msgid "luck"
+msgstr "luck"
 
 # Hash space is a translator comment that should be preserved.
 #: viewpart/UnicodeBlocks.h:151
-msgid "new new new"
-msgstr "new new new"
+msgid "new new new has nothing todo with it"
+msgstr "new new new to do with it"
 
 #: mainwindow.cpp:127
 #, kde-format
 msgid "Time: %1 second"
 msgid_plural "Time: %1 seconds"
-msgstr[0] "Czas: %1 sekunda"
+msgstr[0] "Czas: %1 sekunda t"
 msgstr[1] "Czas: %1 sekundy"
 msgstr[2] "Czas: %1 sekund"
 
