@@ -5,7 +5,7 @@
 "Item_With_semicolon" = "Text2 %ld %lx %C;Text3";
 
 /* Comment 3 */
-"Item_With_colon" = "Text4:Text5";
+"Item_With_colon" = "Text4:Text5asdfsadfsdf";
 
 /* Comment 4 */
 "Item_With_colon" = "Text4:Text5";
