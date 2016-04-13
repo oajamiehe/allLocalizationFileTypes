@@ -1,0 +1,70 @@
+<?xml no dup
+<LinearLayout no dup
+    android:no dup%s\n
+    android:no dup
+    android:no dup
+    >
+
+<EditText id="text"
+    android:layout_width="fill_parent" android:layout_height="fill_parent"
+    android:textColor="@android:color/opaque_red"
+    android:text="@string/hello_world" /> <!-- Not to be translated-->
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Please enter your login"
+        />
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="WRONG:"
+        />
+    <EditText
+        android:id="@+id/username"
+        android:singleLine="true"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+    />
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Password: name: %s weight: %03dkg\n"
+        />
+    <EditText
+        android:id="@+id/password"
+        android:password="true"
+        android:singleLine="true"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+    />
+    <Button
+        android:id="@+id/login_button"
+        android:text="Login"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+    />
+    <Button
+        android:id="@+id/cancel_button"
+        android:text="Cancel"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+    />
+    <TextView
+        android:id="@+id/result"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        />
+</LinearLayout>
+       android:singleLine="true"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+    />
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Password: name: %s weight: %03dkg\n"
+        />
+    <EditText
+        android:id="@+id/password"
+   
