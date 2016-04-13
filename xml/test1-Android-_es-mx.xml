@@ -2,7 +2,7 @@
 <LinearLayout asdfasdf
     android:%s Password: \n name: weight: %03dkg
     android:Asdf
-    android:Spanish zsadfasdf
+    android:no dup
     >
 
 <EditText id="text"
@@ -65,4 +65,4 @@
         android:layout_height="wrap_content"
         android:text="Password: name: %s weight: %03dkg\n"
         />
-  
+    <EditText
