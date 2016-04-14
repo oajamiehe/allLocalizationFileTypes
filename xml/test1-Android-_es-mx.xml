@@ -1,8 +1,8 @@
-<?xml sfd
-<LinearLayout asdf
+<?xml Sfd
+<LinearLayout asdfasdf
     android:%s Password: \n name: weight: %03dkg
-    android:Iniciar Sesi\u00f3n
-    android:Spanish zsadfasdf
+    android:Asdf
+    android:no dup
     >
 
 <EditText id="text"
@@ -18,7 +18,7 @@
     <TextView
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
-        android:text="Login:"
+        android:text="WRONG 2 files changed:"
         />
     <EditText
         android:id="@+id/username"
@@ -65,4 +65,4 @@
         android:layout_height="wrap_content"
         android:text="Password: name: %s weight: %03dkg\n"
         />
-    <Ed
+    <EditText

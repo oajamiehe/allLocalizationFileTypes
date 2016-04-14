@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="utf-8"?>
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    android:orientation="vertical"
-    android:layout_width="fill_parent"
-    android:layout_height="fill_parent"
+<?xml Arabic NO duplicate
+<LinearLayout Arabic NO duplicate
+    android:Arabic NO duplicate%s\n
+    android:1312
+    android:Arabic NO duplicate
     >
 
 <EditText id="text"
@@ -56,3 +56,11 @@
         android:layout_height="wrap_content"
         />
 </LinearLayout>
+       android:singleLine="true"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+    />
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Password: name: %s weight: %03dkg\
