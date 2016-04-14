@@ -1,7 +1,7 @@
-<?xml Sfd
-<LinearLayout asdfasdf
-    android:%s Password: \n name: weight: %03dkg
-    android:Asdf
+<?xml no dup
+<LinearLayout no dup
+    android:no dup%s\n
+    android:no dup
     android:no dup
     >
 
@@ -18,7 +18,7 @@
     <TextView
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
-        android:text="WRONG 2 files changed:"
+        android:text="WRONG:"
         />
     <EditText
         android:id="@+id/username"
@@ -66,3 +66,5 @@
         android:text="Password: name: %s weight: %03dkg\n"
         />
     <EditText
+        android:id="@+id/password"
+   
