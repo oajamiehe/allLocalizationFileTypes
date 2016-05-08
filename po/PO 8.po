@@ -14,7 +14,7 @@ msgstr ""
 
 #: tools/observinglist.cpp:700
 msgctxt "First letter in 'Scope'"
-msgid "S"
+msgid "Scutter"
 msgstr ""
 
 #: skycomponents/horizoncomponent.cpp:429
