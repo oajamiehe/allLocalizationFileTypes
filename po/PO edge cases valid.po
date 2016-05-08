@@ -24,7 +24,7 @@ msgstr "today today now"
 
 # Hash space is a translator comment that should be preserved.
 #: viewpart/UnicodeBlocks.h:151
-msgid "new new new has nothing todo with it"
+msgid "new new two_lang has nothing todo with it"
 msgstr "new new new to do with it"
 
 #: mainwindow.cpp:127
