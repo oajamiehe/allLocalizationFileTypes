@@ -18,8 +18,8 @@ msgid "S"
 msgstr ""
 
 #: skycomponents/horizoncomponent.cpp:429
-msgctxt "today"
-msgid "today"
+msgctxt "today CRA"
+msgid "todayCRA"
 msgstr "today today cra cra now"
 
 # Hash space is a translator comment that should be preserved.
