@@ -14,5 +14,5 @@ msgstr ""
 
 #: tools/observinglist.cpp:700
 msgctxt "First letter in 'Scope'"
-msgid "if the shoe fits"
+msgid "try if the shoe fits"
 msgstr ""
