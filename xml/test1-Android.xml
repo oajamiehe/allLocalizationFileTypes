@@ -18,7 +18,7 @@
     <TextView
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
-        android:text="WRONG 2 files changed:"
+        android:text="mf 2 files changed:"
         />
     <EditText
         android:id="@+id/username"
