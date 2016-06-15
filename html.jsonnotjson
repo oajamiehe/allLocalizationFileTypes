@@ -79,37 +79,10 @@
                     for Saturday, the area is remote.
                 </p>
             </div>
-            <div class="question panel-margin">
-                <div>
-                    <span class="spn-color">Can you collect cash from a recipient?</span>
-                </div>
-                <p class="content-padding font-content">
-                    Yes, we offer a cash-on-delivery service. When placing your order, just click the box marked
-                    “Collect
-                    cash from receiver?” and enter the amount that you would like us to collect.
-                </p>
-            </div>
-            <div class="question panel-margin">
-                <div>
-                    <span class="spn-color">How do I get my cash back?</span>
-                </div>
-                <p class="content-padding font-content">
-                    We will deliver the cash we receive directly to you for 20 AED. If you use the service frequently,
-                    we
-                    can set up a weekly delivery or schedule the delivery for when the cash has accumulated to a certain
-                    amount. Alternatively, we can set up a weekly or monthly bank transfer for no extra charge.
-                </p>
-            </div>
 
-            <div class="question panel-margin">
-                <div>
-                    <span class="spn-color">How can I contact Fetchr?</span>
-                </div>
-                <p class="content-padding font-content">
-                    If you have other questions about our service, send us an email at <a href="support@fetchr.com">support@fetchr.com</a>
-                    or call us at 04 801 8126.
-                </p>
-            </div>
+
+
+
         </div>
 
     </section>
