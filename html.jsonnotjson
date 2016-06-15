@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+</head>
+
+<body>
+
+<div>
+    <section>
+        <div class="width-100 search center bg-white">
+            <input type="search" id="faq" class="width-80 margin-10 border-radius-25" onkeyup="search()">
+        </div>
+        <div class="searchcontent">
+            <div class="question panel-margin">
+                <div>
+                    <span class="spn-color">What is Fetchr?</span>
+                </div>
+                <p class="content-padding font-content">
+                    Fetchr is a technology solution that solves the problem of no physical addresses in emerging
+                    markets,
+                    and eliminates the need for annoying phone calls asking for directions.
+                </p>
+            </div>
+
+            <div class="question panel-margin">
+                <div>
+                    <span class="spn-color">How does it work?</span>
+                </div>
+                <p class="content-padding font-content">
+                    The Fetchr app uses your phone as a GPS location. With our app, we can locate your exact location,
+                    allowing us to deliver packages to you faster and more efficiently.
+                </p>
+            </div>
+            <div class="question panel-margin">
+                <div>
+                    <span class="spn-color">How much does a standard delivery cost?</span>
+                </div>
+                <p class="content-padding font-content">
+                    A standard delivery is 30 AED for a package under 3kg and 50 AED for a package between 3 and 12kg.
+                </p>
+            </div>
+            <div class="question panel-margin">
+                <div>
+                    <span class="spn-color">How much does a bullet delivery cost?</span>
+                </div>
+                <p class="content-padding font-content">
+                    With a bullet delivery, we will deliver a package directly from the sender to the receiver. It costs
+                    50
+                    AED for a delivery within the same emirate and 190 AED for a delivery between two different
+                    emirates. To
+                    schedule your bullet delivery, please call us at 04 801 8126.
+                </p>
+            </div>
+
+            <div class="question panel-margin">
+                <div>
+                    <span class="spn-color">Do you offer same-day delivery?</span>
+                </div>
+                <p class="content-padding font-content">
+                    You can get same-day delivery under our standard rates if the pickup is scheduled for 09:00 – 12:00
+                    and
+                    the delivery is scheduled for 15:00 – 19:00 or 19:00 – 23:00, or if the pickup is scheduled for
+                    12:00 –
+                    15:00 and the delivery for 19:00 – 23:00.
+                    Additionally, both the sender and recipient must be located in Dubai. Otherwise, please try our
+                    bullet
+                    delivery service.
+                </p>
+            </div>
+            <div class="question panel-margin">
+                <div>
+                    <span class="spn-color">Do you travel to remote areas?</span>
+                </div>
+                <p class="content-padding font-content">
+                    Yes, but we only provide pickup and delivery service on Saturdays. To check if a location is
+                    classified
+                    as remote, enter the address the app and see which time slots appear. If the only pickup times shown
+                    are
+                    for Saturday, the area is remote.
+                </p>
+            </div>
+            <div class="question panel-margin">
+                <div>
+                    <span class="spn-color">Can you collect cash from a recipient?</span>
+                </div>
+                <p class="content-padding font-content">
+                    Yes, we offer a cash-on-delivery service. When placing your order, just click the box marked
+                    “Collect
+                    cash from receiver?” and enter the amount that you would like us to collect.
+                </p>
+            </div>
+            <div class="question panel-margin">
+                <div>
+                    <span class="spn-color">How do I get my cash back?</span>
+                </div>
+                <p class="content-padding font-content">
+                    We will deliver the cash we receive directly to you for 20 AED. If you use the service frequently,
+                    we
+                    can set up a weekly delivery or schedule the delivery for when the cash has accumulated to a certain
+                    amount. Alternatively, we can set up a weekly or monthly bank transfer for no extra charge.
+                </p>
+            </div>
+
+            <div class="question panel-margin">
+                <div>
+                    <span class="spn-color">How can I contact Fetchr?</span>
+                </div>
+                <p class="content-padding font-content">
+                    If you have other questions about our service, send us an email at <a href="support@fetchr.com">support@fetchr.com</a>
+                    or call us at 04 801 8126.
+                </p>
+            </div>
+        </div>
+
+    </section>
+</div>
+</body>
+<script>
+    function search() {
+        var s= document.getElementById('faq').value.trim().toLowerCase();
+{#        var s = $(this).val().trim().toLowerCase();#}
+        var divs = document.getElementsByClassName("question");
+        for (var i = 0; i < divs.length; i++) {
+            var span = divs[i].getElementsByTagName("span");
+            var para = divs[i].getElementsByTagName("p");
+            var index = span[0].innerText.toLowerCase().includes(s);
+            var index1 = para[0].innerText.toLowerCase().includes(s);
+            if (index || index1)
+                divs[i].style.display = "block";
+            else
+                divs[i].style.display = "none";
+        }
+        return true;
+    }
+</script>
+</html>
