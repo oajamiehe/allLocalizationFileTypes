@@ -23,9 +23,9 @@ msgid "today"
 msgstr "today today now"
 
 #: skycomponents/horizoncomponent.cpp:429
-msgctxt "futureelectric"
-msgid "futureelectric"
-msgstr "futureelectric"
+msgctxt "tomorrow"
+msgid "tomorrow"
+msgstr "tomorrow"
 
 # Hash space is a translator comment that should be preserved.
 #: viewpart/UnicodeBlocks.h:151
