@@ -18,9 +18,9 @@ msgid "S"
 msgstr ""
 
 #: skycomponents/horizoncomponent.cpp:429
-msgctxt "today"
-msgid "today"
-msgstr "today today now"
+msgctxt "999"
+msgid "999"
+msgstr "999 today now"
 
 #: skycomponents/horizoncomponent.cpp:429
 msgctxt "tomorrow"
