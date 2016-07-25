@@ -27,10 +27,38 @@ msgctxt "tomorrow"
 msgid "tomorrow"
 msgstr "tomorrow"
 
-# Hash space is a translator comment that should be preserved.
-#: viewpart/UnicodeBlocks.h:151
-msgid "new new new has nothing todo with it"
-msgstr "new new new to do with it"
+msgid "get unique content hashable long1"
+msgstr "get unique content hashable long1"
+
+msgid "get unique content hashable long2"
+msgstr "get unique content hashable long2"
+
+msgid "get unique content hashable long3"
+msgstr "get unique content hashable long3"
+
+msgid "get unique content hashable long4"
+msgstr "get unique content hashable long5"
+
+msgid "get unique content hashable long6"
+msgstr "get unique content hashable long6"
+
+msgid "get unique content hashable long7"
+msgstr "get unique content hashable long7"
+
+msgid "get unique content hashable long8"
+msgstr "get unique content hashable long8"
+
+msgid "get unique content hashable lon9g"
+msgstr "get unique content hashable long9"
+
+msgid "get unique content hashable long10"
+msgstr "get unique content hashable long10"
+
+msgid "get unique content hashable long11"
+msgstr "get unique content hashable long11"
+
+msgid "get unique content hashable long12"
+msgstr "get unique content hashable long12"
 
 #: mainwindow.cpp:127
 #, kde-format
