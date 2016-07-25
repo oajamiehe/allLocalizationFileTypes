@@ -39,3 +39,7 @@ msgid_plural "Time: %1 seconds"
 msgstr[0] "Czas: %1 sekunda t"
 msgstr[1] "Czas: %1 sekundy"
 msgstr[2] "Czas: %1 sekund"
+
+msgctxt "back"
+msgid "it"
+msgstr "up"
