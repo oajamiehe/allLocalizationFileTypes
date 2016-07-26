@@ -43,3 +43,6 @@ msgstr[2] "Czas: %1 sekund"
 msgctxt "back"
 msgid "it"
 msgstr "up"
+
+msgid "NEW CONTENT SOMEWHERE"
+msgstr "NEW CONTENT SOMEWHERE"
