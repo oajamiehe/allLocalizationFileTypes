@@ -57,9 +57,6 @@ msgstr "get unique content hashable long10"
 msgid "get unique content hashable long11"
 msgstr "get unique content hashable long11"
 
-msgid "get unique content hashable long12"
-msgstr "get unique content hashable long12"
-
 #: mainwindow.cpp:127
 #, kde-format
 msgid "Time: %1 second"
