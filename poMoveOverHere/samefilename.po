@@ -44,5 +44,5 @@ msgctxt "back"
 msgid "it"
 msgstr "up"
 
-msgid "NEW CONTENT SOMEWHERE"
-msgstr "NEW CONTENT SOMEWHERE"
+msgid "NEW CONTENT SOMEWHERE 2"
+msgstr "NEW CONTENT SOMEWHERE 2"
