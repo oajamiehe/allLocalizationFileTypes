@@ -1,4 +1,4 @@
-# Intro to the Qordoba iOS SDK 
+# Intro to the Qordoba iOS SDK  
 
 
 Qordoba's SDK enables agile, intelligent internationalization for native iOS applications. Benefits of localizing via an SDK versus file-based methods include:
